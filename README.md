@@ -1,4 +1,4 @@
-### Open source asteroid detection algorithm is somehow hard to find, EURONEAR project is one but source code not provided. Thanks to [T. Atay](https://github.com/akdeniz-uzay),  writing codes for detecting asteroids has become much more easier(at least for me).
+### Open source asteroid detection algorithm is somehow hard to find, EURONEAR project is one but source code not provided. Thanks to [T. Atay](https://github.com/akdeniz-uzay),  writing codes for detecting asteroids has become much more easier.
 ### To be continued...
 [A-Track](https://github.com/akdeniz-uzay/A-Track) works in (x,y) plane which is time consuming for wide field of view telescope, I simply changed it to celestial coordinate and fixed several mysterious bugs. 
 
