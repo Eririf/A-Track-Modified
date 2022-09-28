@@ -87,6 +87,8 @@ Alternatively, you can install A-Track manually following these steps:
   `cd A-Track-Modified-/f2n`  
   `sudo python3 setup.py install`  
   (Mac users do not use `sudo`.)
+ 
+ 6. **Download and install Astrometry.net & catalogs!
 
 Now, you have A-Track! You can open a command-line interface in the A-Track directory and [run A-Track](#usage).
 
