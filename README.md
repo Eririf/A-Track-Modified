@@ -63,13 +63,13 @@ Alternatively, you can install A-Track manually following these steps:
   **Mac OS X:**  
   `brew install python3 python3-pip imagemagick git-all sextractor`  
   (You will need [Homebrew](http://brew.sh) to install the dependencies.)  
-  ` `
+  
   
 2. **Install Numpy, Pandas, Scipy, pyFITS, and pillow using pip3:**
 
   `sudo pip3 install scipy pandas numpy pyfits pillow`  
   (Mac users do not use `sudo`.)  
-  ` `
+  
 
 3. **Download and install astroasciidata:**  
 
