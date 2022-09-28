@@ -1,0 +1,16 @@
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+alipy/__init__.py
+alipy/align.py
+alipy/f2n.py
+alipy/ident.py
+alipy/imgcat.py
+alipy/pysex.py
+alipy/quad.py
+alipy/star.py
+alipy.egg-info/PKG-INFO
+alipy.egg-info/SOURCES.txt
+alipy.egg-info/dependency_links.txt
+alipy.egg-info/top_level.txt

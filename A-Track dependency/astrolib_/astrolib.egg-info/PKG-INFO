@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: astrolib
+Version: 0.0.1
+Summary: project describe
+Home-page: UNKNOWN
+Author: xxx
+Author-email: xxx@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: MicrosoftIntended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development :: Libraries
+License-File: LICENSE
+
+UNKNOWN
+

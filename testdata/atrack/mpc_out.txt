@@ -1,0 +1,8 @@
+COD A84
+OBS Y. Kilic
+MEA Y. Kilic
+TEL ACE T100 Telescope + CCD
+ACK MPCReport file updated 2022-09-08T08:12:27
+AC2 yucel.kilic@tubitak.gov.tr
+NET GAIA DR1
+----- end -----

@@ -1,0 +1,9 @@
+include README.md
+include CHANGES.md
+include AUTHORS.md
+include licenses/*
+include pyproject.toml
+
+include src/*.[c,h,i]
+include sep.pyx
+exclude sep.c
