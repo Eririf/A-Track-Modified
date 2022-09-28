@@ -5,7 +5,7 @@
 #### Dependencies not completely listed here...(be patient with warnings lol...)
 #### WCS head needed
 
-# Moving Object Detection
+# Moving Object Detection(Slightly changed)
 
 ### Dependencies:
 
