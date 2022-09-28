@@ -73,12 +73,12 @@ Alternatively, you can install A-Track manually following these steps:
 
 3. **Download and install astroasciidata:**  
 
-  `cd A-Track-Modified-/f2n/A-Track dependency`  
+  `cd A-Track-Modified-/A-Track dependency`  
   `sudo python3 setup.py install`
 
 4. **Download and install Alipy:**  
 
-  `cd A-Track-Modified-/f2n/A-Track dependency`  
+  `cd A-Track-Modified-/A-Track dependency`  
   `sudo python3 setup.py install`  
 
 5. **Download the A-Track package and install f2n:**  
